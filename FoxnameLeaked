@@ -1128,7 +1128,7 @@ do
 				Icon = "arrow-right",
 				Variant = "Primary",
 				Callback = function()
-					FoxnameCopyToClipboard("https://discord.gg/v8ZPq4y2nD")
+					FoxnameCopyToClipboard("https://discord.gg/6WRjDu5Y8")
 
 					v:Notify({
 						Title = "Success",
@@ -1153,7 +1153,7 @@ do
 
 	v2 = v:CreateWindow({
 		Title = fn19("Foxname - Murder Mystery 2", Color3.fromRGB(255, 64, 96), color(255, 186, 220)),
-		Author = "discord.gg/v8ZPq4y2nD",
+		Author = "https://discord.gg/6WRjDu5Y8",
 		Theme = "Rose",
 		Size = UDim2.fromOffset(520, 420),
 		Folder = "Foxname_MM2",
